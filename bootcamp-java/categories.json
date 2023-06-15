@@ -1,26 +1,39 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Pokemon",
+    "description": "Preguntas relacionadas con Pokemon.",
+    "pregunta": " ¿Cuál es el Pokémon inicial de tipo agua en la región de Kanto?",
+    "opciones": ["Bulbasaur", "Charmander", "Squirtle"],
+    "RespuestaCorrecta": 2 
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Mascotas",
+    "description": "¿Cuál de estas mascotas es un roedor?.",
+    "opciones": ["Perro", "Gato", "Conejo"],
+    "RespuestaCorrecta": 2
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Clima",
+    "description": "¿Qué fenómeno climático se caracteriza por vientos muy fuertes en forma de remolino?.",
+    "opciones": ["Huracán", "Tornado", "Tsunami"],
+    "RespuestaCorrecta": 2
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Autos",
+    "description": "¿Qué marca de automóviles es conocida por su modelo 'Mustang'?",
+    "opciones": ["Chevrolet", "Ford", "Toyota"],
+    "RespuestaCorrecta": 0
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Computadoras",
+    "description": "¿Cuál de los siguientes dispositivos se utiliza para mostrar información visual en una computadora?",
+    "opciones": ["Teclado", "Monitor", "Mouse"],
+    "RespuestaCorrecta": 1
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Ajedrez",
+    "description": "¿Cuál es el primer movimiento básico del peón en ajedrez?.",
+    "opciones": ["Avanzar dos casillas", "Enroque", "Captura en diagonal"],
+    "RespuestaCorrecta": 0
   }
 ]
